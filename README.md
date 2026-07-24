@@ -73,7 +73,7 @@ This scripts the exact 3-phase test:
 - ask for your name back (state extraction)
 
 If it correctly recalls the name *after* the poem, you've proven the
-history array is really doing its job — not just answering phase 1 in
+history array is really doing its job  not just answering phase 1 in
 isolation.
 
 ## One thing this project deliberately does NOT do
