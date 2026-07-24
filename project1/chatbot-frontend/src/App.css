@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .sidebar {
+    display: none;
+  }
+}
